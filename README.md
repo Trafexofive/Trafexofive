@@ -142,6 +142,7 @@ I build tools that solve problems I actually have—not problems VCs think I sho
 - **The crew** - Solutions that help my friends and collaborators  
 - **Learning** - Building from scratch teaches what copying or "vibing" never will
 - **Ownership** - My code, my data, my servers, my rules
+- **Recreation** - For the love of the game, This is the only thing that truly matters. If you're not having fun, why bother?
 
 I value:
 - **Data sovereignty** over convenience
@@ -165,6 +166,8 @@ If you're building something that requires systems thinking, optimization, and p
 ---
 
 ## 📫 Get in Touch
+Feel free to reach out via email: lamkadmi.business@gmail.com
+<!-- or connect on LinkedIn: https://www.linkedin.com/in/mohamed-ali-lamkadmi/ -->
 
 Building on my own infrastructure (always) • Sharing what works (sometimes)
 
