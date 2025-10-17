@@ -7,6 +7,10 @@
  ╚═════╝  ╚════╝ ╚═════╝ ╚══════╝╚═╝     ╚══════╝╚══════╝╚═════╝ 
 ```
 
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)](https://archlinux.org/)
+[![Self Hosted](https://img.shields.io/badge/Self_Hosted-100%25-green)](https://github.com/yourusername)
+[![FOSS](https://img.shields.io/badge/FOSS-Advocate-blue)](https://www.gnu.org/philosophy/free-sw.html)
+
 # 👋 Aka L'bro
 
 **Production systems from scratch. Self-hosted on my own bare metal.**
@@ -30,7 +34,7 @@ I don't build MVPs or demos. I build **production-grade systems** because that's
 
 **Low-level systems programming** • Direct hardware interaction, performance tuning/benchmarking, performant C++ microservices  
 **Self-hosted infrastructure** • Mail, Git, media, self-hosted FOSS services and webUIs, CI/CD, databases, monitoring—all on my iron  
-**Automation pipelines** • Zero-touch deployments—just clone and `make up`  
+**Automation pipelines** • Zero-touch deployments—just clone and `make up`. BRUTAL.  
 **Wheel reinvention** • Sometimes the existing wheel sucks and you need a better one. But in 99% of cases, it's not. Yet the best way to learn is to build it yourself.
 
 ---
