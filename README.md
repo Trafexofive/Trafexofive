@@ -10,6 +10,14 @@
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![Self Hosted](https://img.shields.io/badge/Self_Hosted-100%25-green)](https://github.com/yourusername)
 [![FOSS](https://img.shields.io/badge/FOSS-Advocate-blue)](https://www.gnu.org/philosophy/free-sw.html)
+[![Bare Metal](https://img.shields.io/badge/Bare_Metal-No_Cloud-orange)](https://github.com/yourusername)
+[![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat&logo=vim&logoColor=white)](https://www.vim.org/)
+
+[![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white)](https://www.lua.org/)
 
 # 👋 Aka L'bro
 
