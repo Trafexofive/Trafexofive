@@ -6,7 +6,22 @@
 ╚██████╔╝╚█████╔╝██████╔╝███████║██║     ███████╗███████╗██████╔╝
  ╚═════╝  ╚════╝ ╚═════╝ ╚══════╝╚═╝     ╚══════╝╚══════╝╚═════╝ 
 ```
-
+![Self Hosted](https://img.shields.io/badge/Self_Hosted-100%25-green)
+![FOSS](https://img.shields.io/badge/FOSS-Advocate-blue)
+![Bare Metal](https://img.shields.io/badge/Bare_Metal-No_Cloud-orange)
+![Production Ready](https://img.shields.io/badge/Production-Ready-brightgreen)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![Systemd](https://img.shields.io/badge/systemd-black?style=flat&logo=linux&logoColor=white)
 
 # 👋 Aka L'bro
 
@@ -37,27 +52,6 @@ I don't build MVPs or demos. I build **production-grade systems** because that's
 ---
 
 ## 🛠️ Stack
-
-**Philosophy:**  
-![Self Hosted](https://img.shields.io/badge/Self_Hosted-100%25-green)
-![FOSS](https://img.shields.io/badge/FOSS-Advocate-blue)
-![Bare Metal](https://img.shields.io/badge/Bare_Metal-No_Cloud-orange)
-![Production Ready](https://img.shields.io/badge/Production-Ready-brightgreen)
-**Languages:**  
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-**Infrastructure:**  
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
-**Tools:**  
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Systemd](https://img.shields.io/badge/systemd-black?style=flat&logo=linux&logoColor=white)
 
 **Languages:** My heart belongs to C • C++ • Python • Lua • Bash • But whatever solves the problem best  
 **Environment:** Arch Linux • Bare metal servers • Self-hosted everything • Docker • Systemd • Nix (occasionally) • Nvim  
