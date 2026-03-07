@@ -23,13 +23,7 @@ Production semantic search over personal knowledge bases. FastAPI backend with S
 **Stack:** Python • FastAPI • SQLite • ChromaDB • LangChain • Neo4j  
 **Features:** Vector search • RAG pipelines • Knowledge graphs • RESTful API
 
-### [SimpleCrawler-MK4](https://github.com/Trafexofive/SimpleCrawler-MK4)
-**Distributed web crawler that transforms documentation into LLM-ready structured data.**
 
-Microservices architecture for concurrent crawling at scale. Intelligent parsing with content normalization, deduplication, and metadata extraction. Redis-backed task queue handles thousands of concurrent crawls. PostgreSQL stores structured output optimized for embedding generation.
-
-**Stack:** Python • FastAPI • PostgreSQL • Redis • Docker • BeautifulSoup  
-**Features:** Concurrent crawling • Smart parsing • Content normalization • Microservices architecture
 
 ### [DeepSearchStack](https://github.com/Trafexofive/DeepSearchStack)
 **Self-hosted deep search engine with LLM enrichment and multi-source aggregation.**
@@ -61,64 +55,6 @@ Currently running on hardware I own:
 
 All managed as code. All version controlled. All understood at the system level.
 
----
-
-## Selected Work
-
-### Production Infrastructure
-
-**[second-brain-stack](https://github.com/Trafexofive/second-brain-stack)** - AI-powered knowledge management with semantic search, RAG, and knowledge graphs. Replaces Notion/Obsidian with full data sovereignty.
-
-**[SimpleCrawler-MK4](https://github.com/Trafexofive/SimpleCrawler-MK4)** - Distributed web crawler with microservices architecture. Transforms documentation into LLM-ready structured data at scale.
-
-**[DeepSearchStack](https://github.com/Trafexofive/DeepSearchStack)** - Self-hosted search engine with multi-source aggregation and LLM enrichment. Complete privacy with customizable ranking.
-
-**[DB-Forge-MK1](https://github.com/Trafexofive/DB-Forge-MK1)** - Database-as-a-Service platform with TypeScript backend and multi-language clients.
-
-**[iq-option-bot-api](https://github.com/Trafexofive/iq-option-bot-api)** - AI-powered trading bot with LLM integration and microservices architecture.
-
-### AI & Automation
-
-**[Cortex-MK1](https://github.com/Trafexofive/Cortex-MK1)** - Experimental AI orchestration and agent coordination system.
-
-**[automation-stack-MK1](https://github.com/Trafexofive/automation-stack-MK1)** - Self-hosted automation infrastructure with Docker orchestration.
-
-**[LSP-Context](https://github.com/Trafexofive/LSP-Context)** - Language Server Protocol context extraction for enhanced code analysis.
-
-### Systems Programming
-
-**[satori](https://github.com/Trafexofive/satori)** - Custom programming language implementation from scratch in C.
-
-**[agent-lib](https://github.com/Trafexofive/agent-lib)** - C++ library for building autonomous agents.
-
-**[excel-tui](https://github.com/Trafexofive/excel-tui)** - Terminal spreadsheet with Excel-like functionality in C++.
-
-**[cub3d](https://github.com/Trafexofive/cub3d)** - Raycasting game engine inspired by Wolfenstein 3D.
-
-**[minishell](https://github.com/Trafexofive/minishell)** - Bash-like shell implementation from scratch.
-
-**[IRC-cpp](https://github.com/Trafexofive/IRC-cpp)** - Full IRC server implementation in C++.
-
-### Developer Tools
-
-**[BoilerFab](https://github.com/Trafexofive/BoilerFab)** - Project scaffolding platform for rapid development setup.
-
-**[RTFM](https://github.com/Trafexofive/RTFM)** - Documentation and reference tool with personality.
-
-**[noter](https://github.com/Trafexofive/noter)** - Efficient note-taking CLI tool in Go.
-
-**[blogen](https://github.com/Trafexofive/blogen)** - Static blog generator with minimal dependencies.
-
-### Self-Hosted Services
-
-**[inception-42](https://github.com/Trafexofive/inception-42)** - Complete Docker infrastructure with multiple services.
-
-**[ollama-api-server-docker](https://github.com/Trafexofive/ollama-api-server-docker)** - Local LLM API server.
-
-**[whisper-docker](https://github.com/Trafexofive/whisper-docker)** - Self-hosted speech-to-text service.
-
-**[yt-dlp-stack](https://github.com/Trafexofive/yt-dlp-stack)** - YouTube download and archiving automation.
-
 
 ---
 
@@ -138,9 +74,9 @@ Infrastructure is a factory floor: optimize throughput, eliminate bottlenecks, a
 
 ## Contact
 
-**Email:** lamkadmi.business@gmail.com
+**Email:** lamkadmi.misc@gmail.com
 
-Open to collaboration on systems-level projects, self-hosted infrastructure, performance optimization, and production-grade tooling. If you're building something that requires deep technical work and you ship real solutions—let's talk.
+Open to collaboration on systems-level projects, self-hosted infrastructure, performance optimization,production-grade tooling and overall cool projects. If you're building something that requires deep technical work and you ship real solutions—let's talk.
 
 ---
 
