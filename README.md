@@ -3,22 +3,24 @@
 
 **Systems programmer. Compiler tinkerer. Infrastructure builder.**
 
-[![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)]()
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()
-[![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)]()
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)]()
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)]()
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)]()
-[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)]()
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)]()
-[![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)]()
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)]()
-[![Arch Linux](https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)]()
-[![Self Hosted](https://img.shields.io/badge/Self_Hosted-100%25-green)]()
-[![Bare Metal](https://img.shields.io/badge/Bare_Metal-No_Cloud-orange)]()
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+
+![Arch Linux](https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+![Self Hosted](https://img.shields.io/badge/Self_Hosted-100%25-green)
+![Bare Metal](https://img.shields.io/badge/Bare_Metal-No_Cloud-orange)
 
 ---
 
@@ -52,7 +54,7 @@
 | **Web / API** | FastAPI (Uvicorn), Next.js, Astro, HTMX, Pydantic, SQLModel |
 | **Terminal** | Neovim, Textual (TUI framework), Rich, Readline |
 | **Build / Tooling** | GNU Make, GCC/G++, Clang, CMake, Git, GDB, pytest, pip, npm |
-| **Misc** | CUDA, PyTorch, FFmpeg, Playwright, crawl4ai, NeoForge, Fabric (Minecraft) |
+| **ML & Media** | CUDA, PyTorch, FFmpeg, Playwright, crawl4ai, NeoForge, Fabric (Minecraft) |
 
 ---
 
@@ -70,7 +72,7 @@ All managed as code. All understood at the system level.
 
 ## Research Interests
 
-Systems architecture and emergent complexity · LLM agent orchestration · Compiler design · Performance optimization at scale · Low-level programming · Security and OSINT
+Systems architecture and emergent complexity, LLM agent orchestration, compiler design, performance optimization at scale, low-level systems programming, and security.
 
 ---
 
@@ -78,5 +80,5 @@ Systems architecture and emergent complexity · LLM agent orchestration · Compi
 
 ---
 
-**Contact:** lamkadmi.misc@gmail.com  
+**Contact:** [GitHub](https://github.com/Trafexofive) · lamkadmi.misc@gmail.com  
 Open to SWE roles, systems-level projects, and interesting hackathons.
