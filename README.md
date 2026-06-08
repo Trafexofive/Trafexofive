@@ -1,84 +1,82 @@
-# GODSPEED
+# Mohamed Ali Lamkadmi
+### GODSPEED
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
-![Self Hosted](https://img.shields.io/badge/Self_Hosted-100%25-green)
-![Bare Metal](https://img.shields.io/badge/Bare_Metal-No_Cloud-orange)
+**Systems programmer. Compiler tinkerer. Infrastructure builder.**
 
-I build production infrastructure from scratch and run it on my own hardware. No cloud providers. No vendor lock-in. Everything self-hosted, battle-tested, and optimized for real workloads.
-
-**Systems programmer. Infrastructure engineer. FOSS maximalist.**
+[![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)]()
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()
+[![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)]()
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)]()
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)]()
+[![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)]()
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)]()
+[![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)]()
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)]()
+[![Arch Linux](https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)]()
+[![Self Hosted](https://img.shields.io/badge/Self_Hosted-100%25-green)]()
+[![Bare Metal](https://img.shields.io/badge/Bare_Metal-No_Cloud-orange)]()
 
 ---
 
-## Current Projects
+## Featured Projects
 
-### [second-brain-stack](https://github.com/Trafexofive/second-brain-stack)
-**Self-hosted knowledge management with AI-powered search and knowledge graphs.**
+### [Satori](https://github.com/Trafexofive/satori)
+**From-scratch language interpreter in C** — bytecode VM, static typing, modules, arithmetic, and control flow. Core interpreter working, under active development. *"You just have to write your own language at some point."*
 
-Production semantic search over personal knowledge bases. FastAPI backend with SQLite storage, vector embeddings for similarity search, RAG for conversational queries, and Neo4j for relationship mapping. Handles thousands of documents with sub-second retrieval. Built to replace Notion/Obsidian with full data sovereignty.
+### [Smelt](https://github.com/Trafexofive/smelt)
+**Statically typed, GC-managed language that transpiles to clean C.** Type inference, instance methods, generics, standard library. A from-scratch compiler written entirely in C++.
 
-**Stack:** Python • FastAPI • SQLite • ChromaDB • LangChain • Neo4j  
-**Features:** Vector search • RAG pipelines • Knowledge graphs • RESTful API
+### [agent-lib-cpp](https://github.com/Trafexofive/agent-lib-cpp)
+**C++17 agent runtime for DeepSeek-class LLMs.** Custom protocol parser, streaming TUI with markdown rendering, inference provider abstraction, tool dispatch with sandbox enforcement, feed engine, and server mode. Built from scratch — no agent frameworks, no bloat.
 
-
+### [Second Brain Stack](https://github.com/Trafexofive/second-brain-stack)
+**Self-hosted knowledge management** with AI-powered semantic search, knowledge graphs, and RAG pipelines. FastAPI microservices, ChromaDB vector store, Neo4j graphs. Data-sovereign alternative to Notion/Obsidian.
 
 ### [DeepSearchStack](https://github.com/Trafexofive/DeepSearchStack)
-**Self-hosted deep search engine with LLM enrichment and multi-source aggregation.**
-
-Aggregates results from multiple search engines, enriches with LLM analysis, caches intelligently, and serves through a unified API. Vector storage for semantic search. Built to replace Google with complete privacy and customizable ranking algorithms.
-
-**Stack:** Python • FastAPI • Redis • Vector DB • LLM integration  
-**Features:** Multi-engine aggregation • LLM enrichment • Intelligent caching • Semantic search
+**Multi-stage search & synthesis pipeline** — 13 search providers across 8 domains, TF-IDF ranking, full-page extraction (crawl4ai), ChromaDB + SQLite FTS5 storage, LLM-powered synthesis with citations. Docker-native, 14 services, Python SDK.
 
 ---
 
-## Technical Stack
+## Tech Stack
 
-**Languages:** C • C++ • Python • Bash • Lua • Go • TypeScript when necessary  
-**Infrastructure:** Arch Linux • Bare metal servers • Docker • Systemd • Nginx • WireGuard  
-**Databases:** PostgreSQL • SQLite • Redis • Neo4j  
-**Tools:** Neovim • Git • Make • GCC/Clang  
-**Philosophy:** Minimal dependencies, maximum control, production-grade or don't ship
+| Category | Technologies |
+|---|---|
+| **Languages** | C, C++17, Python, Rust, Go, TypeScript, Java, Lua, Bash |
+| **Infrastructure** | Docker / Compose, Arch Linux, bare metal, Nginx, WireGuard, systemd |
+| **Databases** | PostgreSQL, SQLite (FTS5), Redis, Neo4j, ChromaDB |
+| **AI / LLM** | DeepSeek, Groq, OpenRouter, OpenAI API, OpenCode, RAG pipelines, sentence-transformers, embedding models |
+| **Web / API** | FastAPI (Uvicorn), Next.js, Astro, HTMX, Pydantic, SQLModel |
+| **Terminal** | Neovim, Textual (TUI framework), Rich, Readline |
+| **Build / Tooling** | GNU Make, GCC/G++, Clang, CMake, Git, GDB, pytest, pip, npm |
+| **Misc** | CUDA, PyTorch, FFmpeg, Playwright, crawl4ai, NeoForge, Fabric (Minecraft) |
 
-### Self-Hosted Infrastructure
+---
 
-Currently running on hardware I own:
+## Self-Hosted Infrastructure
 
-**Core Services:** Full email stack (Postfix, Dovecot, rspamd) • Git server (Gitea) • Proxy management (nginx) • DNS/Ad-blocking (AdGuard) • VPN (WireGuard) • Dashboard (Glance)
+Running on my own hardware:
 
-**Media & Content:** Navidrome (music streaming) • Audiobookshelf (audiobooks/podcasts) • YouTube archiving (yt-dlp stack)
+**Core:** Email (Postfix, Dovecot, rspamd) · Git (Gitea) · Proxy (Nginx) · DNS/Ad-block (AdGuard) · VPN (WireGuard)  
+**Media:** Navidrome (music) · Audiobookshelf · YouTube archiving (yt-dlp)  
+**Development:** Build servers · Container registry · Package mirrors · Test labs
 
-**Development:** Build servers • Container registry • Private package mirrors • Testing environments • Experimental labs
-
-All managed as code. All version controlled. All understood at the system level.
-
+All managed as code. All understood at the system level.
 
 ---
 
 ## Research Interests
 
-Systems architecture and emergent complexity • AI agent orchestration and autonomy • LLM safety and alignment • Quantitative trading and algorithmic strategies • Performance optimization at scale • Low-level programming (assembly, embedded systems, FPGAs) • Security and OSINT • Entropy in systems design
+Systems architecture and emergent complexity · LLM agent orchestration · Compiler design · Performance optimization at scale · Low-level programming · Security and OSINT
 
 ---
 
-## Philosophy
-
-Dependencies are technical debt. Complexity is justified only when it enables emergent capabilities. If you don't understand it at the system level, you don't control it. Production is the only environment that teaches truth. Manual processes are bugs waiting to be automated.
-
-Infrastructure is a factory floor: optimize throughput, eliminate bottlenecks, automate relentlessly, measure everything, iterate until bulletproof. Every service is a machine in a larger assembly line. Every failure is a signal. Every optimization unlocks the next stage of scale.
+*Dependencies are technical debt. Complexity is justified only when it enables emergent capabilities. Production is the only environment that teaches truth.*
 
 ---
 
-## Contact
-
-**Email:** lamkadmi.misc@gmail.com
-
-Open to collaboration on systems-level projects, self-hosted infrastructure, performance optimization,production-grade tooling and overall cool projects. If you're building something that requires deep technical work and you ship real solutions—let's talk.
-
----
-
-*Building on my own infrastructure. Sharing what works.*
-
+**Contact:** lamkadmi.misc@gmail.com  
+Open to SWE roles, systems-level projects, and interesting hackathons.
